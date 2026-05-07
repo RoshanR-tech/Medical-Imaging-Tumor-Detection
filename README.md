@@ -1,7 +1,7 @@
 🧠 Medical Imaging Tumor Detection
 
 ## Overview
-This project detects tumor regions in MRI images using image processing.
+This project detects tumor regions in MRI images using image processing efficiently .
 
 ## Features
 - Image upload
